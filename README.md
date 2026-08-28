@@ -1,2 +1,2 @@
 # CSE-AIML-Practicals
-CSE AI &amp; ML Practical Work
+Introducttion to Machine Learning Lab Practical Work
